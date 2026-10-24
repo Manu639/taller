@@ -1,6 +1,7 @@
 // Sirve la app desde la caché (funciona sin conexión) y la actualiza en segundo plano.
-// Cambia CACHE al desplegar una versión nueva para forzar la limpieza de la anterior.
-const CACHE = 'taller-v3';
+// Al construir la imagen, el Dockerfile cambia 'dev' por la versión de la release, así que
+// cada versión publicada usa una caché nueva y la anterior se borra.
+const CACHE = 'taller-dev';
 const ASSETS = [
   './',
   './index.html',

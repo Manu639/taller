@@ -1,6 +1,10 @@
 import { createSeed } from './seed.js';
 
-const APP_VERSION = '1.1.0';
+// Al construir la imagen, el Dockerfile cambia 'dev' por la versión de la release (p. ej. '1.2.0').
+const APP_VERSION = 'dev';
+const RELEASES_URL = 'https://api.github.com/repos/Manu639/taller/releases/latest';
+const UPDATE_KEY = 'taller.update';
+const UPDATE_CHECK_MS = 6 * 60 * 60 * 1000;
 const STORAGE_KEY = 'taller.v2';
 const BIKE_KEY = 'taller.bike';
 const FAV_FILTER = '__fav';
@@ -134,6 +138,7 @@ const state = {
   query: '',
   group: null,
   conv: { value: '', unit: 'nm' },
+  update: null, // { latest, url } si hay una release más nueva que la que está corriendo
 };
 
 const currentBike = () => state.data.bikes.find(b => b.id === state.bikeId) ?? state.data.bikes[0] ?? null;
@@ -172,6 +177,7 @@ function render() {
         ${VIEWS.map(([id, label]) => `<button class="tab ${state.view === id ? 'active' : ''}" data-action="view" data-view="${id}">${label}</button>`).join('')}
       </nav>
     </header>
+    ${renderUpdateBanner()}
     <main class="view">${renderView()}</main>`;
   if (state.view === 'ajustes') updateStorageStatus();
 }
@@ -326,6 +332,54 @@ function renderAjustes() {
       <div class="btn-row"><button class="btn danger" data-action="reset">Restaurar datos de los manuales</button></div>
     </section>
     <p class="muted small center">Taller v${APP_VERSION}</p>`;
+}
+
+/* ---------- Versión nueva ---------- */
+
+function renderUpdateBanner() {
+  if (!state.update) return '';
+  return `
+    <div class="update-banner" role="status">
+      <strong>Hay una versión nueva publicada: v${esc(state.update.latest)}</strong> (tienes v${esc(APP_VERSION)}).
+      <a href="${esc(state.update.url)}" target="_blank" rel="noopener">Novedades</a>
+      <span class="muted small">Si ya has actualizado el homelab, cierra y vuelve a abrir la app.</span>
+    </div>`;
+}
+
+// ¿La versión a (x.y.z) es posterior a b?
+function isNewer(a, b) {
+  const pa = a.split('.').map(Number);
+  const pb = b.split('.').map(Number);
+  for (let i = 0; i < 3; i++) {
+    if (pa[i] !== pb[i]) return pa[i] > pb[i];
+  }
+  return false;
+}
+
+// Consulta la última release en GitHub como mucho cada UPDATE_CHECK_MS y avisa si es más nueva.
+async function checkForUpdate() {
+  if (!/^\d+\.\d+\.\d+$/.test(APP_VERSION)) return; // copia local sin versión ('dev')
+  let info = null;
+  try {
+    info = JSON.parse(localStorage.getItem(UPDATE_KEY));
+  } catch { /* se vuelve a consultar */ }
+  if (!info || Date.now() - info.checkedAt > UPDATE_CHECK_MS) {
+    try {
+      const res = await fetch(RELEASES_URL, { headers: { Accept: 'application/vnd.github+json' } });
+      if (!res.ok) return;
+      const release = await res.json();
+      info = { latest: release.tag_name.replace(/^v/, ''), url: release.html_url, checkedAt: Date.now() };
+      localStorage.setItem(UPDATE_KEY, JSON.stringify(info));
+    } catch {
+      return; // sin conexión: se mirará la próxima vez
+    }
+  }
+  if (!/^\d+\.\d+\.\d+$/.test(info.latest)) return;
+  const update = isNewer(info.latest, APP_VERSION) ? { latest: info.latest, url: info.url } : null;
+  if (update?.latest !== state.update?.latest) {
+    state.update = update;
+    render();
+  }
 }
 
 async function updateStorageStatus() {
@@ -740,6 +794,11 @@ dlg.addEventListener('submit', e => {
 /* ---------- Arranque ---------- */
 
 render();
+checkForUpdate();
+// En el iPad la app instalada sigue abierta en segundo plano: al volver a ella también se mira.
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'visible') checkForUpdate();
+});
 navigator.storage?.persist?.();
 if ('serviceWorker' in navigator && window.isSecureContext) {
   navigator.serviceWorker.register('./sw.js');

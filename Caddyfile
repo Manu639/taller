@@ -1,0 +1,7 @@
+:80 {
+	root * /srv
+	encode zstd gzip
+	header /sw.js Cache-Control "no-cache"
+	header /manifest.webmanifest Content-Type "application/manifest+json"
+	file_server
+}
