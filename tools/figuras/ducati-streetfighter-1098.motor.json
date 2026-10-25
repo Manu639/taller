@@ -1,0 +1,815 @@
+{
+  "tornillo-fijacion-deposito-de-expansion-a-soporte": [
+    {
+      "fig": "sf:RAF00341",
+      "pos": [
+        "3"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-columna-tapon-remoto-radiador-a-bastidor": [
+    {
+      "fig": "sf:RAF00340",
+      "pos": [
+        "16"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-tapon-remoto-radiador-a-columna": [
+    {
+      "fig": "sf:RAF00340",
+      "pos": [
+        "15"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-radiador-superior-al-bastidor": [
+    {
+      "fig": "sf:RAF00340",
+      "pos": [
+        "9"
+      ],
+      "nota": "La posición 9 también incluye el tornillo del radiador inferior al soporte (llamada de abajo a la derecha); los del radiador superior son los dos de arriba."
+    }
+  ],
+  "tornillo-de-fijacion-del-radiador-inferior-al-soporte": [
+    {
+      "fig": "sf:RAF00340",
+      "pos": [
+        "9"
+      ],
+      "nota": "Es la llamada 9 de abajo a la derecha, junto al soporte (10); las otras dos son las del radiador superior."
+    }
+  ],
+  "perno-de-fijacion-del-radiador-inferior-al-soporte": [
+    {
+      "fig": "sf:RAF00340",
+      "pos": [
+        "3"
+      ],
+      "nota": "Tornillo especial; es la llamada 3 junto al soporte (10)."
+    }
+  ],
+  "perno-de-orientacion-del-radiador-superior": [
+    {
+      "fig": "sf:RAF00340",
+      "pos": [
+        "3"
+      ],
+      "nota": "Tornillo especial; es la llamada 3 del centro, bajo el radiador superior."
+    }
+  ],
+  "tornillo-de-fijacion-del-soporte-del-radiador-inferior-a-la-culata": [
+    {
+      "fig": "sf:RAF00340",
+      "pos": [
+        "12"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-pasacable-al-soporte-del-radiador": [
+    {
+      "fig": "sf:RAF00340",
+      "pos": [
+        "21"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-intercambiador-al-soporte": [
+    {
+      "fig": "sf:RAF00334",
+      "pos": [
+        "9"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-soporte-intercambiador-a-culata": [
+    {
+      "fig": "sf:RAF00334",
+      "pos": [
+        "8"
+      ]
+    }
+  ],
+  "niple-tubo-de-aceite-intercambiador": [
+    {
+      "fig": "sf:RAF00334",
+      "pos": [
+        "2"
+      ],
+      "nota": "Son los dos niples del lado del intercambiador (con junta 5); la misma posición 2 marca también los dos del cárter."
+    }
+  ],
+  "niple-del-radiador-de-aceite": [
+    {
+      "fig": "sf:RAF00334",
+      "pos": [
+        "2"
+      ],
+      "nota": "Son los dos niples del lado del cárter (con junta 1); la misma posición 2 marca también los dos del intercambiador."
+    }
+  ],
+  "tuerca-en-empalme-tubo-de-aceite-intercambiador-niple-carter": [
+    {
+      "fig": "sf:RAF00334",
+      "pos": [
+        "3",
+        "4"
+      ],
+      "nota": "La tuerca forma parte de cada tubo (3 impulsión, 4 retorno); es el extremo del lado del cárter."
+    }
+  ],
+  "tuerca-en-empalme-tubo-de-aceite-intercambiador-niple-intercambiador": [
+    {
+      "fig": "sf:RAF00334",
+      "pos": [
+        "3",
+        "4"
+      ],
+      "nota": "La tuerca forma parte de cada tubo (3 impulsión, 4 retorno); es el extremo del lado del intercambiador."
+    }
+  ],
+  "tapon-de-cierre-de-los-pernos-de-los-balancines": [
+    {
+      "fig": "sf:TST00359",
+      "pos": [
+        "12"
+      ]
+    },
+    {
+      "fig": "sf:TST00360",
+      "pos": [
+        "12"
+      ]
+    }
+  ],
+  "sensor-de-temperatura-en-el-empalme-del-agua": [
+    {
+      "fig": "sf:RAF00341",
+      "pos": [
+        "9"
+      ]
+    }
+  ],
+  "tuerca-para-prisionero-culata-cilindro": [
+    {
+      "fig": "sf:CRT00451",
+      "pos": [
+        "14"
+      ]
+    }
+  ],
+  "prisionero-cilindro-culata": [
+    {
+      "fig": "sf:CRT00451",
+      "pos": [
+        "16"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-los-sombreretes-de-las-levas": [
+    {
+      "fig": "sf:TST00359",
+      "pos": [
+        "23"
+      ]
+    },
+    {
+      "fig": "sf:TST00360",
+      "pos": [
+        "23"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-la-brida-de-las-poleas": [
+    {
+      "fig": "sf:TST00358",
+      "pos": [
+        "16"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-la-tapa-de-la-culata": [
+    {
+      "fig": "sf:TST00358",
+      "pos": [
+        "3"
+      ]
+    }
+  ],
+  "prisionero-para-colector-de-escape": [
+    {
+      "fig": "sf:TST00359",
+      "pos": [
+        "21"
+      ]
+    },
+    {
+      "fig": "sf:TST00360",
+      "pos": [
+        "21"
+      ]
+    }
+  ],
+  "empalme-de-la-purga-de-aire-en-culata-horizontal": [
+    {
+      "fig": "sf:TST00360",
+      "pos": [
+        "25"
+      ]
+    }
+  ],
+  "perno-de-cierre-de-la-purga-de-aire-en-la-culata-vertical": [
+    {
+      "fig": "sf:TST00359",
+      "pos": [
+        "20"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-colector-de-admision": [
+    {
+      "fig": "sf:IMP00549",
+      "pos": [
+        "2"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-los-empalmes-de-agua-en-la-culata": [
+    {
+      "fig": "sf:RAF00341",
+      "pos": [
+        "15"
+      ]
+    }
+  ],
+  "perno-tensor-fijo-y-movil": [
+    {
+      "fig": "sf:TST00364",
+      "pos": [
+        "4",
+        "22"
+      ]
+    }
+  ],
+  "abrazadera-para-poleas-de-los-arboles-de-levas": [
+    {
+      "fig": "sf:TST00358",
+      "pos": [
+        "2"
+      ]
+    }
+  ],
+  "tuerca-del-engranaje-de-transmision-de-la-distribucion": [
+    {
+      "fig": "sf:TST00364",
+      "pos": [
+        "15"
+      ]
+    }
+  ],
+  "tuerca-de-fijacion-del-tensor-fijo-y-movil": [
+    {
+      "fig": "sf:TST00364",
+      "pos": [
+        "7"
+      ],
+      "nota": "Tuerca del tensor móvil; el tensor fijo se sujeta con el tornillo de bloqueo (23)."
+    }
+  ],
+  "tornillo-de-fijacion-de-las-tapas-de-carbono": [
+    {
+      "fig": "sf:TST00364",
+      "pos": [
+        "6"
+      ]
+    }
+  ],
+  "abrazaderas-circuito-de-agua": [
+    {
+      "fig": "sf:IMB00133",
+      "pos": [
+        "7"
+      ]
+    }
+  ],
+  "brida-de-impulsion-de-la-bomba-de-agua": [
+    {
+      "fig": "sf:CRT00438",
+      "pos": [
+        "16"
+      ]
+    },
+    {
+      "fig": "sf:IMB00133",
+      "pos": [
+        "14"
+      ]
+    }
+  ],
+  "tornillo-sujeta-cojinetes-de-la-bomba-de-agua": [
+    {
+      "fig": "sf:CRT00438",
+      "pos": [
+        "6"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-sujetacables-del-estator": [
+    {
+      "fig": "sf:CRT00438",
+      "pos": [
+        "5"
+      ]
+    }
+  ],
+  "tornillo-de-la-tapa-de-inspeccion": [
+    {
+      "fig": "sf:CRT00438",
+      "pos": [
+        "24"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-rotor-al-volante": [
+    {
+      "fig": "sf:CRT00438",
+      "pos": [
+        "2"
+      ]
+    }
+  ],
+  "tornillo-de-sujecion-del-cojinete-secundario-del-lado-de-la-cadena": [
+    {
+      "fig": "sf:CRT00451",
+      "pos": [
+        "17"
+      ]
+    }
+  ],
+  "tornillo-de-bloqueo-del-cojinete-primario-del-lado-del-embrague": [
+    {
+      "fig": "sf:CRT00452",
+      "pos": [
+        "5"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-los-surtidores-aceite-debajo-del-piston": [
+    {
+      "fig": "sf:CRT00451",
+      "pos": [
+        "25"
+      ]
+    },
+    {
+      "fig": "sf:CRT00452",
+      "pos": [
+        "20"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-la-valvula-blow-by": [
+    {
+      "fig": "sf:CRT00451",
+      "pos": [
+        "2"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-sensor-bosch": [
+    {
+      "fig": "sf:CRT00451",
+      "pos": [
+        "29"
+      ]
+    }
+  ],
+  "tornillo-de-cierre-del-circuito-de-aceite-carter-cadena": [
+    {
+      "fig": "sf:CRT00452",
+      "pos": [
+        "13"
+      ]
+    }
+  ],
+  "cartucho-de-aceite": [
+    {
+      "fig": "sf:RAF00332",
+      "pos": [
+        "20"
+      ]
+    }
+  ],
+  "niple-para-cartucho-de-aceite": [
+    {
+      "fig": "sf:RAF00332",
+      "pos": [
+        "21"
+      ]
+    }
+  ],
+  "tornillo-cierre-tapa-filtro-de-malla": [
+    {
+      "fig": "sf:RAF00332",
+      "pos": [
+        "16"
+      ]
+    }
+  ],
+  "tapon-de-la-bomba-by-pass": [
+    {
+      "fig": "sf:RAF00332",
+      "pos": [
+        "2"
+      ]
+    }
+  ],
+  "casquillo-de-reduccion-del-tornillo-de-la-bomba-de-aceite": [
+    {
+      "fig": "sf:RAF00332",
+      "pos": [
+        "17"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-la-bomba-de-aceite": [
+    {
+      "fig": "sf:RAF00332",
+      "pos": [
+        "10"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-la-bomba-de-aceite-2": [
+    {
+      "fig": "sf:RAF00332",
+      "pos": [
+        "8"
+      ]
+    }
+  ],
+  "tapon-de-descarga-del-agua-en-la-tapa-de-la-bomba": [
+    {
+      "fig": "sf:CRT00438",
+      "pos": [
+        "33"
+      ],
+      "nota": "Único tapón de la tapa de la bomba de agua (con junta 32)."
+    }
+  ],
+  "tapon-de-la-tapa-de-la-bomba-de-agua": [
+    {
+      "fig": "sf:CRT00438",
+      "pos": [
+        "33"
+      ],
+      "nota": "Mismo tapón M10x1 que el de descarga del agua (con junta 32)."
+    }
+  ],
+  "tornillo-de-fijacion-brida-soporte-deposito-expansion-a-culata-horizontal": [
+    {
+      "fig": "sf:IMP00549",
+      "pos": [
+        "6"
+      ],
+      "nota": "Tornillos del soporte del depósito en el colector de admisión (llamada 6 del centro); la otra llamada 6 es la placa sujetacables, fijada con el mismo tornillo."
+    }
+  ],
+  "tornillo-de-fijacion-de-la-bobina": [
+    {
+      "fig": "sf:IMP00570",
+      "pos": [
+        "9"
+      ]
+    }
+  ],
+  "bujia-de-encendido": [
+    {
+      "fig": "sf:IMP00570",
+      "pos": [
+        "12"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-vacuometro-a-la-culata-solo-ue": [
+    {
+      "fig": "sf:IMP00549",
+      "pos": [
+        "4"
+      ],
+      "nota": "Tornillo de cierre de la toma de vacío de cada culata (con arandela 3)."
+    }
+  ],
+  "tapon-de-descarga-del-aceite": [
+    {
+      "fig": "sf:CRT00451",
+      "pos": [
+        "7"
+      ]
+    }
+  ],
+  "tapon-de-cierre-del-conducto-de-aceite-del-carter-del-embrague": [
+    {
+      "fig": "sf:CRT00452",
+      "pos": [
+        "6"
+      ],
+      "nota": "Tapón sobre el alojamiento del filtro de malla, en el semicárter del lado del embrague (pieza 19 del manual N 9.2)."
+    }
+  ],
+  "perno-del-conducto-de-aceite-interno-del-carter-del-embrague": [
+    {
+      "fig": "sf:CRT00452",
+      "pos": [
+        "12"
+      ],
+      "nota": "Prisionero (grano) del semicárter del lado del embrague (pieza 35 del manual N 9.2)."
+    }
+  ],
+  "sensor-de-punto-muerto": [
+    {
+      "fig": "sf:CMB00212",
+      "pos": [
+        "6"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-carter-zona-cilindros": [
+    {
+      "fig": "sf:CRT00451",
+      "pos": [
+        "10"
+      ],
+      "nota": "Tornillos M8x90 (4 en total)."
+    },
+    {
+      "fig": "sf:CRT00452",
+      "pos": [
+        "17"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-central-carter-eje-basculante": [
+    {
+      "fig": "sf:CRT00452",
+      "pos": [
+        "22"
+      ],
+      "nota": "Tornillos M8x75 (3)."
+    }
+  ],
+  "tornillo-de-fijacion-de-la-palanca-de-bloqueo-de-las-marchas": [
+    {
+      "fig": "sf:CMB00212",
+      "pos": [
+        "3"
+      ]
+    }
+  ],
+  "tornillo-de-la-palanca-de-bloqueo-de-las-marchas": [
+    {
+      "fig": "sf:CMB00212",
+      "pos": [
+        "3"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-motor-de-arranque": [
+    {
+      "fig": "sf:IMP00567",
+      "pos": [
+        "5"
+      ]
+    }
+  ],
+  "tornillo-trasero-del-motor-de-arranque": [
+    {
+      "fig": "sf:IMP00567",
+      "pos": [
+        "6"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-perno-del-engranaje-loco": [
+    {
+      "fig": "sf:IMP00567",
+      "pos": [
+        "12"
+      ]
+    }
+  ],
+  "tuerca-de-fijacion-del-pinon-de-la-transmision-primaria": [
+    {
+      "fig": "sf:IMB00132",
+      "pos": [
+        "13"
+      ]
+    }
+  ],
+  "tuerca-de-fijacion-del-volante": [
+    {
+      "fig": "sf:IMB00132",
+      "pos": [
+        "14"
+      ]
+    }
+  ],
+  "tornillos-de-biela": [
+    {
+      "fig": "sf:IMB00132",
+      "pos": [
+        "9"
+      ]
+    }
+  ],
+  "perno-del-ciguenal": [
+    {
+      "fig": "sf:IMB00132",
+      "pos": [
+        "2",
+        "4"
+      ],
+      "nota": "Prisioneros del cigüeñal: el catálogo no distingue cuál es el perforado; es uno de estos dos tipos."
+    }
+  ],
+  "perno-perforado-del-ciguenal": [
+    {
+      "fig": "sf:IMB00132",
+      "pos": [
+        "2",
+        "4"
+      ],
+      "nota": "Prisioneros del cigüeñal: el catálogo no distingue cuál es el perforado; es uno de estos dos tipos."
+    }
+  ],
+  "tornillo-posicionador-del-tambor-de-cambio": [
+    {
+      "fig": "sf:CMB00212",
+      "pos": [
+        "7"
+      ]
+    }
+  ],
+  "tornillo-del-trinquete-del-cambio": [
+    {
+      "fig": "sf:CMB00212",
+      "pos": [
+        "30"
+      ]
+    }
+  ],
+  "tuerca-de-fijacion-del-posicionador-del-trinquete": [
+    {
+      "fig": "sf:CMB00212",
+      "pos": [
+        "23"
+      ]
+    }
+  ],
+  "tornillo-del-trinquete-del-cambio-2": [
+    {
+      "fig": "sf:CMB00212",
+      "pos": [
+        "28"
+      ]
+    }
+  ],
+  "abrazadera-para-poleas-de-los-arboles-de-levas-2": [
+    {
+      "fig": "sf:TST00364",
+      "pos": [
+        "21"
+      ],
+      "nota": "Tuerca autoblocante de las poleas del eje de transmisión de la distribución (M15x1); la de los árboles de levas (M17x1) es TST00358 pos. 2."
+    }
+  ],
+  "tuerca-del-tambor-del-embrague-en-seco": [
+    {
+      "fig": "sf:CMB00217",
+      "pos": [
+        "25"
+      ]
+    }
+  ],
+  "tapon-de-carga-del-aceite": [
+    {
+      "fig": "sf:CRT00435",
+      "pos": [
+        "7"
+      ]
+    }
+  ],
+  "sensor-de-presion-del-aceite": [
+    {
+      "fig": "sf:CRT00435",
+      "pos": [
+        "9"
+      ]
+    }
+  ],
+  "tornillos-de-la-campana-del-embrague-en-seco": [
+    {
+      "fig": "sf:CMB00217",
+      "pos": [
+        "11"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-la-tapa-de-proteccion-del-embrague": [
+    {
+      "fig": "sf:CRT00435",
+      "pos": [
+        "2",
+        "8"
+      ]
+    }
+  ],
+  "tornillos-de-la-campana-del-embrague-en-seco-2": [
+    {
+      "fig": "sf:CMB00217",
+      "pos": [
+        "4"
+      ],
+      "nota": "Tornillos de los muelles del embrague (M5)."
+    }
+  ],
+  "tornillo-de-cierre-de-la-tapa-del-embrague": [
+    {
+      "fig": "sf:CRT00435",
+      "pos": [
+        "5",
+        "3",
+        "11"
+      ],
+      "nota": "Faltan los dos M6x20 inferiores, que no tienen llamada en el dibujo."
+    }
+  ],
+  "tornillo-de-inspeccion-para-espesor-pick-up": [
+    {
+      "fig": "sf:CRT00438",
+      "pos": [
+        "10"
+      ],
+      "nota": "Tapón de inspección en la tapa del alternador (con junta de aluminio 25)."
+    }
+  ],
+  "tornillo-de-fijacion-de-la-tapa-del-alternador": [
+    {
+      "fig": "sf:CRT00438",
+      "pos": [
+        "19",
+        "3",
+        "15",
+        "36"
+      ],
+      "nota": "Los dos tornillos especiales largos de abajo a la derecha no tienen llamada en el dibujo."
+    }
+  ],
+  "tornillo-de-fijacion-de-la-tapa-del-alternador-bomba-de-agua": [
+    {
+      "fig": "sf:CRT00438",
+      "pos": [
+        "20",
+        "19"
+      ],
+      "nota": "Los 5 tornillos de la tapa de la bomba (4 de pos. 20 y el de pos. 19 con arandela 30 dibujado sobre la tapa de la bomba); la otra llamada 19 es de la tapa del alternador."
+    }
+  ],
+  "fijacion-de-los-tubos-de-refrigeracion-de-liquido-star-16-28": [],
+  "fijacion-de-los-tubos-de-refrigeracion-de-liquido-star-20-33": [],
+  "abrazadera-de-los-tubos-de-agua-purga-en-el-cilindro-horizontal": [],
+  "abrazadera-de-los-tubos-de-agua-en-tapon-remoto": [],
+  "abrazadera-de-los-tubos-de-agua-purga-de-culata-vertical-a-tapon-remoto": [],
+  "abrazadera-de-los-tubos-de-agua-purga-de-radiador-a-tapon-remoto": [],
+  "abrazadera-del-deposito-de-expansion": [],
+  "empalme-en-culata-para-canister-solo-california": [],
+  "tapon-del-conducto-de-aspiracion-del-aceite": [],
+  "tapon-de-cierre-del-conducto-de-aceite": [],
+  "tornillo-fijacion-carter-zona-perno-loco": [],
+  "tornillo-fijacion-carter-externa": [],
+  "tornillo-de-fijacion-de-las-tapas-de-plastico": [],
+  "tornillo-de-fijacion-soporte-filtro-tapas-de-carbono": [],
+  "tornillo-autorroscante-para-filtro-de-las-tapas": [],
+  "brida-de-admision-del-agua": [],
+  "tapon-de-la-tapa-de-la-bomba-de-agua-2": [],
+  "_sin_figura": {
+    "fijacion-de-los-tubos-de-refrigeracion-de-liquido-star-16-28": "El catálogo no indica el tamaño de las abrazaderas; no se distingue cuáles son STAR 16-28.",
+    "fijacion-de-los-tubos-de-refrigeracion-de-liquido-star-20-33": "El catálogo no indica el tamaño de las abrazaderas; no se distingue cuáles son STAR 20-33.",
+    "abrazadera-de-los-tubos-de-agua-purga-en-el-cilindro-horizontal": "No se puede identificar con seguridad qué abrazadera de RAF00341 es la de purga del cilindro horizontal.",
+    "abrazadera-de-los-tubos-de-agua-en-tapon-remoto": "No se distingue en el despiece qué abrazaderas son las del tapón remoto.",
+    "abrazadera-de-los-tubos-de-agua-purga-de-culata-vertical-a-tapon-remoto": "No se distingue en el despiece qué abrazaderas son las de este tubo de purga.",
+    "abrazadera-de-los-tubos-de-agua-purga-de-radiador-a-tapon-remoto": "No se distingue en el despiece qué abrazaderas son las de este tubo de purga.",
+    "abrazadera-del-deposito-de-expansion": "Las piezas del depósito (RAF00341 12) figuran como pasatubos; no se confirma que sea la abrazadera.",
+    "empalme-en-culata-para-canister-solo-california": "Solo versión California: no aparece en el catálogo de la Streetfighter S (UE).",
+    "tapon-del-conducto-de-aspiracion-del-aceite": "Posiblemente RAF00332 13, pero no está confirmado.",
+    "tapon-de-cierre-del-conducto-de-aceite": "No se identifica con seguridad (podría ser un prisionero 778.5.016 o el tapón CRT00435 15).",
+    "tornillo-fijacion-carter-zona-perno-loco": "No se distingue cuáles de los M6 del cárter (CRT00452 14 o 15) son los de la zona del engranaje loco.",
+    "tornillo-fijacion-carter-externa": "No se distingue cuáles de los M6 del cárter (CRT00452 14 o 15) son los externos.",
+    "tornillo-de-fijacion-de-las-tapas-de-plastico": "La Streetfighter S lleva tapas de distribución de carbono; las de plástico no figuran en su catálogo.",
+    "tornillo-de-fijacion-soporte-filtro-tapas-de-carbono": "El catálogo solo muestra un tipo de tornillo para el filtro (TST00364 30); no se distingue si es este o el autorroscante.",
+    "tornillo-autorroscante-para-filtro-de-las-tapas": "El catálogo solo muestra un tipo de tornillo para el filtro (TST00364 30); no se distingue si es este o el del soporte.",
+    "brida-de-admision-del-agua": "No figura como pieza aparte en el despiece de la bomba de agua (CRT00438).",
+    "tapon-de-la-tapa-de-la-bomba-de-agua-2": "En la tapa de la bomba solo se dibuja un tapón (M10x1, pos. 33); el M6 no aparece."
+  }
+}

@@ -1,0 +1,1211 @@
+{
+  "tornillo-de-fijacion-del-espejo-derecho": [
+    {
+      "fig": "sf:SOS00428",
+      "pos": [
+        "19"
+      ],
+      "nota": "Espejo derecho (8): tornillo 19 (rosca a izquierdas)"
+    }
+  ],
+  "tornillo-de-fijacion-del-espejo-izquierdo": [
+    {
+      "fig": "sf:SOS00428",
+      "pos": [
+        "17"
+      ]
+    }
+  ],
+  "tuerca-para-fijacion-perno-de-rotacion-del-caballete-lateral": [
+    {
+      "fig": "sf:TEL00550",
+      "pos": [
+        "10"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-caballete-lateral-al-carter": [
+    {
+      "fig": "sf:TEL00550",
+      "pos": [
+        "2"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-sensor-del-caballete-lateral": [
+    {
+      "fig": "sf:TEL00550",
+      "pos": [
+        "4"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-pasacables-para-el-sensor-del-caballete-lateral": [],
+  "tuerca-de-fijacion-del-pinon": [
+    {
+      "fig": "sf:CMB00208",
+      "pos": [
+        "32"
+      ]
+    }
+  ],
+  "tuerca-de-fijacion-de-la-tapa-del-pinon": [],
+  "tornillo-de-fijacion-de-la-cupula-al-faro": [
+    {
+      "fig": "sf:VST00829",
+      "pos": [
+        "19",
+        "23"
+      ],
+      "nota": "Tornillos de la cúpula (7) al faro: 19 en las fijaciones rápidas 18 y 23 con arandela 11"
+    }
+  ],
+  "tornillo-de-fijacion-indicadores-de-direccion-delanteros-a-soporte-faro": [
+    {
+      "fig": "sf:FAN00186",
+      "pos": [
+        "7"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-faro-trasero-al-cuerpo-del-asiento": [
+    {
+      "fig": "sf:TEL00545",
+      "pos": [
+        "23"
+      ]
+    }
+  ],
+  "tuerca-de-fijacion-antivibracion-soporte-del-faro-en-la-base-de-direccion": [
+    {
+      "fig": "sf:FAN00186",
+      "pos": [
+        "14"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-faro-al-soporte-del-faro": [
+    {
+      "fig": "sf:FAN00186",
+      "pos": [
+        "6"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-espaciador-al-indicador-de-direccion-trasero-derecho-e-izquierdo": [],
+  "tornillo-de-fijacion-del-salpicadero-al-soporte-del-faro-central": [
+    {
+      "fig": "sf:FAN00186",
+      "pos": [
+        "19"
+      ]
+    }
+  ],
+  "tornillo-fijacion-tapa-salpicadero": [
+    {
+      "fig": "sf:FAN00186",
+      "pos": [
+        "25"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-soporte-del-faro-derecho-izquierdo-al-soporte-del-salpicadero": [
+    {
+      "fig": "sf:FAN00186",
+      "pos": [
+        "17"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-la-abrazadera-de-los-vastagos-de-la-horquilla": [
+    {
+      "fig": "sf:SOS00449",
+      "pos": [
+        "3"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-la-base-de-direccion-a-la-horquilla": [
+    {
+      "fig": "sf:SOS00428",
+      "pos": [
+        "7"
+      ],
+      "nota": "La posición 7 (×12) también marca los tornillos del perno en U del manillar y de la cabeza de dirección; aquí son los de la base de dirección (3)"
+    }
+  ],
+  "tornillo-de-fijacion-de-la-cabeza-de-direccion": [
+    {
+      "fig": "sf:SOS00428",
+      "pos": [
+        "13",
+        "7"
+      ],
+      "nota": "13: tornillo de bloqueo de la cabeza de dirección en la tuerca; 7: tornillos de los vástagos en la cabeza de dirección (la pos. 7 también marca otros tornillos iguales)"
+    }
+  ],
+  "abrazadera-de-fijacion-de-los-cojinetes-de-direccion": [
+    {
+      "fig": "sf:SOS00428",
+      "pos": [
+        "12"
+      ]
+    }
+  ],
+  "contratuerca-del-final-de-carrera-de-la-direccion": [
+    {
+      "fig": "sf:SOS00428",
+      "pos": [
+        "1"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-pasatubo-del-freno-delantero-a-la-base-de-direccion": [
+    {
+      "fig": "sf:BRB00270",
+      "pos": [
+        "29"
+      ],
+      "nota": "Tornillo del soporte pasatubo (27) en la base de dirección"
+    }
+  ],
+  "tuercas-de-fijacion-perno-en-u-a-cabeza-de-direccion": [
+    {
+      "fig": "sf:SOS00428",
+      "pos": [
+        "11",
+        "34"
+      ],
+      "nota": "Tuercas 11 con sus tornillos 34 (perno en U inferior)"
+    }
+  ],
+  "tornillo-de-fijacion-del-pasatubo-del-freno-embrague-a-la-cabeza-de-direccion": [],
+  "tornillo-de-fijacion-placa-soporte-faro-a-cabeza-de-direccion": [
+    {
+      "fig": "sf:FAN00186",
+      "pos": [
+        "5"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-soporte-del-faro-a-la-base-de-direccion": [
+    {
+      "fig": "sf:FAN00186",
+      "pos": [
+        "11"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-la-abrazadera-del-amortiguador-de-direccion": [
+    {
+      "fig": "sf:SOS00428",
+      "pos": [
+        "28"
+      ]
+    }
+  ],
+  "tuerca-de-fijacion-del-soporte-del-amortiguador-de-direccion": [
+    {
+      "fig": "sf:SOS00428",
+      "pos": [
+        "32"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-la-abrazadera-del-amortiguador-de-direccion-a-la-cabeza-de-direccion": [
+    {
+      "fig": "sf:SOS00428",
+      "pos": [
+        "44"
+      ],
+      "nota": "La pos. 44 (×2) marca los dos tornillos del amortiguador; este es el de la abrazadera (B)"
+    }
+  ],
+  "tornillo-de-fijacion-uniball-amortiguador-de-direccion-a-soporte-amortiguador": [
+    {
+      "fig": "sf:SOS00428",
+      "pos": [
+        "44"
+      ],
+      "nota": "La pos. 44 (×2) marca los dos tornillos del amortiguador; este es el del uniball al soporte 33 (A)"
+    }
+  ],
+  "tuerca-de-fijacion-del-cable-del-telerruptor-al-motor-de-arranque": [
+    {
+      "fig": "sf:IMP00567",
+      "pos": [
+        "3"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-conmutador-derecho-izquierdo": [],
+  "tornillo-de-fijacion-del-sensor-de-velocidad-delantero-y-trasero": [
+    {
+      "fig": "sf:BRB00270",
+      "pos": [
+        "36"
+      ]
+    },
+    {
+      "fig": "sf:BRB00271",
+      "pos": [
+        "35"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-cableado-en-el-telerruptor": [
+    {
+      "fig": "sf:IMP00550",
+      "pos": [
+        "21"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-cable-bateria-a-borne-bateria": [
+    {
+      "fig": "sf:IMP00550",
+      "pos": [
+        "23"
+      ],
+      "nota": "Los tornillos de borne no tienen posición propia: vienen con la batería (23), cuya llamada los señala"
+    }
+  ],
+  "tornillo-de-fijacion-de-la-centralita-a-la-placa": [
+    {
+      "fig": "sf:IMP00550",
+      "pos": [
+        "14"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-placa-soporte-centralita-a-soporte-bateria": [
+    {
+      "fig": "sf:IMP00550",
+      "pos": [
+        "12"
+      ],
+      "nota": "La pos. 12 (×5) también marca los tornillos del soporte de batería al bastidor"
+    }
+  ],
+  "tuerca-de-fijacion-del-regulador-de-tension": [
+    {
+      "fig": "sf:IMP00550",
+      "pos": [
+        "2"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-silent-block-dtc": [
+    {
+      "fig": "sf:VST00828",
+      "pos": [
+        "37"
+      ],
+      "nota": "Silent blocks de la centralita DTC (35), roscados hasta el tope"
+    }
+  ],
+  "tuerca-de-fijacion-dtc": [
+    {
+      "fig": "sf:VST00828",
+      "pos": [
+        "39"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-brida-soporte-cable-a-culata-vertical": [],
+  "tornillo-fijacion-sensor-temperatura-a-soporte-faro-delantero": [],
+  "tornillo-de-fijacion-del-soporte-de-la-bateria-al-bastidor-trasero": [
+    {
+      "fig": "sf:IMP00550",
+      "pos": [
+        "12"
+      ],
+      "nota": "La pos. 12 (×5) también marca los tornillos de la placa de la centralita"
+    }
+  ],
+  "tornillo-de-fijacion-del-soporte-de-la-bateria-al-bastidor-trasero-2": [
+    {
+      "fig": "sf:IMP00550",
+      "pos": [
+        "4"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-placa-telerruptor": [
+    {
+      "fig": "sf:IMP00550",
+      "pos": [
+        "16"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-cable-de-masa-al-motor": [],
+  "tornillo-de-fijacion-del-claxon-al-soporte-del-radiador-superior": [
+    {
+      "fig": "sf:IMP00570",
+      "pos": [
+        "19"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-la-bomba-del-freno-delantero-al-manillar": [
+    {
+      "fig": "sf:BRB00270",
+      "pos": [
+        "24"
+      ],
+      "nota": "Abrazadera de recambio con sus tornillos (pos. 24)"
+    }
+  ],
+  "empalme-de-la-purga-del-freno-delantero-trasero": [
+    {
+      "fig": "sf:BRB00270",
+      "pos": [
+        "22"
+      ],
+      "nota": "Purgas de las pinzas delanteras"
+    },
+    {
+      "fig": "sf:BRB00271",
+      "pos": [
+        "25"
+      ],
+      "nota": "Purga de la pinza trasera (el manual da también 14 N·m para esta purga en otra fila)"
+    }
+  ],
+  "tornillo-de-fijacion-de-la-pinza-del-freno-delantero": [
+    {
+      "fig": "sf:BRB00270",
+      "pos": [
+        "25"
+      ]
+    }
+  ],
+  "pre-par-tornillos-pinza-freno-delantero-para-asentamiento-pinzas": [
+    {
+      "fig": "sf:BRB00270",
+      "pos": [
+        "25"
+      ]
+    }
+  ],
+  "tuerca-de-fijacion-del-fulcro-del-basculante-trasero": [
+    {
+      "fig": "sf:SOS00434",
+      "pos": [
+        "3"
+      ],
+      "nota": "El manual la llama tuerca; en el catálogo es el tornillo especial 3 del eje"
+    }
+  ],
+  "clavija-de-centrado-del-soporte-de-la-pinza-del-freno-trasero": [
+    {
+      "fig": "sf:SOS00434",
+      "pos": [
+        "14"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-los-patines-de-la-cadena-al-basculante": [
+    {
+      "fig": "sf:SOS00434",
+      "pos": [
+        "16"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-los-patines-de-la-cadena-al-basculante-cazoleta": [
+    {
+      "fig": "sf:SOS00434",
+      "pos": [
+        "13"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-cubo-de-rueda-trasero": [
+    {
+      "fig": "sf:SOS00434",
+      "pos": [
+        "18"
+      ]
+    }
+  ],
+  "tornillo-del-perno-central-del-basculante": [],
+  "tornillo-de-fijacion-de-la-placa-de-la-bomba-del-freno-trasero-al-motor": [
+    {
+      "fig": "sf:BRB00271",
+      "pos": [
+        "2"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-la-pinza-del-freno-trasero": [
+    {
+      "fig": "sf:BRB00271",
+      "pos": [
+        "32"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-la-bomba-del-freno-trasero": [
+    {
+      "fig": "sf:BRB00271",
+      "pos": [
+        "19"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-deposito-del-freno-trasero": [
+    {
+      "fig": "sf:BRB00271",
+      "pos": [
+        "24"
+      ]
+    }
+  ],
+  "tuerca-bloqueo-de-la-varilla-de-mando-bomba-de-freno": [
+    {
+      "fig": "sf:BRB00271",
+      "pos": [
+        "15"
+      ],
+      "nota": "La pos. 15 (×2) también marca la tuerca del tornillo de regulación 8; aquí es la de la varilla 18"
+    }
+  ],
+  "brida-del-tubo-del-freno-trasero-en-la-pinza-y-en-la-bomba": [
+    {
+      "fig": "sf:BRB00271",
+      "pos": [
+        "22"
+      ]
+    }
+  ],
+  "empalme-de-la-purga-del-freno-delantero-a-la-pinza": [
+    {
+      "fig": "sf:BRB00271",
+      "pos": [
+        "25"
+      ]
+    }
+  ],
+  "tornillo-autorroscante-fijacion-soporte-laminas": [
+    {
+      "fig": "sf:TEL00545",
+      "pos": [
+        "28"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-portamatricula-al-bloque": [
+    {
+      "fig": "sf:TEL00545",
+      "pos": [
+        "7"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-portamatricula-al-bloque-australia": [
+    {
+      "fig": "sf:TEL00557",
+      "pos": [
+        "7"
+      ]
+    }
+  ],
+  "tuerca-del-faro-piloto": [
+    {
+      "fig": "sf:TEL00545",
+      "pos": [
+        "12"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-bloque-superior-a-bloque-inferior": [
+    {
+      "fig": "sf:TEL00545",
+      "pos": [
+        "1",
+        "19"
+      ],
+      "nota": "Tornillos del paragotas 20 al portamatrícula 6"
+    }
+  ],
+  "tornillo-de-fijacion-del-bloque-a-la-placa-del-bastidor-trasero": [
+    {
+      "fig": "sf:TEL00545",
+      "pos": [
+        "15"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-la-proteccion-anti-piedras-australia": [
+    {
+      "fig": "sf:TEL00557",
+      "pos": [
+        "31"
+      ]
+    }
+  ],
+  "apriete-tornillo-sujetacable-del-mando-del-acelerador": [],
+  "tornillo-de-bloqueo-de-ajuste-del-cable-de-mando-del-acelerador": [],
+  "tornillo-de-fijacion-de-la-bomba-del-embrague-delantero-al-manillar": [
+    {
+      "fig": "sf:BRB00260",
+      "pos": [
+        "19"
+      ],
+      "nota": "Abrazadera de recambio con su tornillo (pos. 19)"
+    }
+  ],
+  "tornillo-de-fijacion-perno-en-u-manillar": [
+    {
+      "fig": "sf:SOS00428",
+      "pos": [
+        "7"
+      ],
+      "nota": "La posición 7 (×12) también marca los tornillos de las tijas; aquí son los 4 del perno en U superior (24)"
+    }
+  ],
+  "empalme-de-la-purga-del-embrague": [
+    {
+      "fig": "sf:BRB00260",
+      "pos": [
+        "3"
+      ]
+    }
+  ],
+  "empalme-del-tubo-del-embrague": [
+    {
+      "fig": "sf:BRB00260",
+      "pos": [
+        "5",
+        "16"
+      ]
+    }
+  ],
+  "tornillo-retorno-embrague": [
+    {
+      "fig": "sf:CMB00217",
+      "pos": [
+        "28"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-mando-del-acelerador": [],
+  "tuerca-de-fijacion-del-perno-fulcro-balancin-susp-tras": [
+    {
+      "fig": "sf:SOS00450",
+      "pos": [
+        "3"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-amortiguador-al-balancin": [
+    {
+      "fig": "sf:SOS00450",
+      "pos": [
+        "9"
+      ],
+      "nota": "La pos. 9 (×2) marca también el tornillo de la varilla al balancín"
+    }
+  ],
+  "tornillo-de-fijacion-de-la-varilla-al-balancin": [
+    {
+      "fig": "sf:SOS00450",
+      "pos": [
+        "9"
+      ],
+      "nota": "La pos. 9 (×2) marca también el tornillo del amortiguador al balancín"
+    }
+  ],
+  "tornillo-de-fijacion-del-amortiguador-y-la-varilla-al-basculante": [
+    {
+      "fig": "sf:SOS00450",
+      "pos": [
+        "4"
+      ]
+    }
+  ],
+  "tuerca-de-fijacion-de-las-articulaciones-a-la-varilla-de-reaccion": [
+    {
+      "fig": "sf:SOS00450",
+      "pos": [
+        "12",
+        "15"
+      ]
+    }
+  ],
+  "fijacion-guardabarros-delantero-a-horquilla": [
+    {
+      "fig": "sf:VST00829",
+      "pos": [
+        "1"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-tubo-del-freno-delantero-a-la-brida": [
+    {
+      "fig": "sf:VST00829",
+      "pos": [
+        "2"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-articulaciones-varilla-de-retorno-a-palanca-de-cambio-y-biela": [
+    {
+      "fig": "sf:TEL00536",
+      "pos": [
+        "14"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-la-biela-del-cambio-al-trinquete": [],
+  "perno-de-la-palanca-de-cambio-freno": [
+    {
+      "fig": "sf:TEL00536",
+      "pos": [
+        "13"
+      ]
+    },
+    {
+      "fig": "sf:BRB00271",
+      "pos": [
+        "9"
+      ]
+    }
+  ],
+  "tornillo-fijacion-placa-portaestribo-piloto-a-bastidor-derecho-izquierdo": [
+    {
+      "fig": "sf:TEL00536",
+      "pos": [
+        "7"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-la-talonera-al-soporte-del-estribo": [
+    {
+      "fig": "sf:TEL00536",
+      "pos": [
+        "6"
+      ]
+    }
+  ],
+  "tornillo-especial-interruptor-freno-trasero": [],
+  "tuerca-bloqueo-regulacion-palanca-de-freno": [
+    {
+      "fig": "sf:BRB00271",
+      "pos": [
+        "15"
+      ],
+      "nota": "La pos. 15 (×2) también marca la tuerca de la varilla 18; aquí es la del tornillo de regulación 8"
+    }
+  ],
+  "tornillo-de-fijacion-de-la-placa-portaestribo-del-pasajero-al-bastidor-trasero": [
+    {
+      "fig": "sf:TEL00538",
+      "pos": [
+        "12"
+      ]
+    }
+  ],
+  "tuerca-izquierda-bloqueo-articulaciones-a-la-varilla-de-cambio": [
+    {
+      "fig": "sf:TEL00536",
+      "pos": [
+        "29"
+      ]
+    }
+  ],
+  "tuerca-derecha-bloqueo-articulaciones-a-la-varilla-de-cambio": [
+    {
+      "fig": "sf:TEL00536",
+      "pos": [
+        "23"
+      ]
+    }
+  ],
+  "tornillo-fulcro-puntal-freno-trasero-en-la-palanca-del-freno": [
+    {
+      "fig": "sf:BRB00271",
+      "pos": [
+        "13"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-guardabarros-trasero": [
+    {
+      "fig": "sf:SOS00434",
+      "pos": [
+        "24"
+      ]
+    }
+  ],
+  "tornillo-de-los-discos-de-freno": [
+    {
+      "fig": "sf:TEL00552",
+      "pos": [
+        "4"
+      ]
+    }
+  ],
+  "tuerca-de-fijacion-del-eje-de-rueda-delantera": [
+    {
+      "fig": "sf:TEL00552",
+      "pos": [
+        "1"
+      ]
+    }
+  ],
+  "tuerca-de-fijacion-del-amortiguador-de-la-rueda-trasera": [
+    {
+      "fig": "sf:TEL00544",
+      "pos": [
+        "4"
+      ]
+    }
+  ],
+  "tuerca-de-fijacion-del-paquete-rueda-trasera-ambos-lados": [
+    {
+      "fig": "sf:TEL00544",
+      "pos": [
+        "2"
+      ]
+    },
+    {
+      "fig": "sf:TEL00552",
+      "pos": [
+        "13"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-los-pernos-de-arrastre-de-la-rueda-trasera-y-del-disco-de-freno": [
+    {
+      "fig": "sf:TEL00544",
+      "pos": [
+        "21"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-las-placas-de-centrado-del-deposito": [
+    {
+      "fig": "sf:VST00827",
+      "pos": [
+        "4"
+      ],
+      "nota": "Tornillos de las tomas de sujeción delanteras (2, 3) del depósito"
+    }
+  ],
+  "tornillo-de-fijacion-del-soporte-deformable-en-el-bastidor": [
+    {
+      "fig": "sf:TEL00538",
+      "pos": [
+        "5"
+      ],
+      "nota": "Soporte 4 del bastidor trasero, donde apoya la parte trasera del depósito"
+    }
+  ],
+  "tornillo-de-fijacion-de-la-brida-de-la-gasolina-al-deposito": [
+    {
+      "fig": "sf:VST00784",
+      "pos": [
+        "7"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-tapon-del-deposito-al-deposito": [
+    {
+      "fig": "sf:VST00827",
+      "pos": [
+        "9"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-deposito-de-gasolina-al-soporte-deformable": [
+    {
+      "fig": "sf:VST00827",
+      "pos": [
+        "13"
+      ]
+    }
+  ],
+  "fijacion-de-las-placas-de-contencion-de-los-tubos-de-gasolina": [
+    {
+      "fig": "sf:VST00784",
+      "pos": [
+        "3"
+      ]
+    }
+  ],
+  "empalmes-para-tubos-de-respiracion-y-drenaje-del-deposito": [
+    {
+      "fig": "sf:VST00784",
+      "pos": [
+        "2"
+      ]
+    }
+  ],
+  "tuerca-de-fijacion-de-los-colectores-a-la-culata": [
+    {
+      "fig": "sf:SCR00115",
+      "pos": [
+        "3"
+      ]
+    }
+  ],
+  "tuerca-de-fijacion-del-paracalor-en-el-colector-vertical": [
+    {
+      "fig": "sf:SCR00115",
+      "pos": [
+        "1"
+      ]
+    }
+  ],
+  "fijacion-de-los-tapones-de-acero-inox-1-8-gas-a-los-canos-de-escape": [
+    {
+      "fig": "sf:SCR00115",
+      "pos": [
+        "9"
+      ]
+    }
+  ],
+  "fijacion-sonda-lambda": [
+    {
+      "fig": "sf:SCR00115",
+      "pos": [
+        "12"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-la-abrazadera-de-los-silenciadores-al-estribo-del-pasacable-derecho": [
+    {
+      "fig": "sf:SCR00115",
+      "pos": [
+        "35"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-la-abrazadera-de-los-silenciadores-inferior": [
+    {
+      "fig": "sf:SCR00115",
+      "pos": [
+        "29"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-la-abrazadera-de-los-silenciadores-espaciador": [
+    {
+      "fig": "sf:SCR00115",
+      "pos": [
+        "45"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-actuador-valvula-de-escape": [
+    {
+      "fig": "sf:IMP00550",
+      "pos": [
+        "8"
+      ]
+    }
+  ],
+  "tuerca-de-fijacion-de-los-cables-bowden-a-la-valvula-de-escape": [
+    {
+      "fig": "sf:SCR00115",
+      "pos": [
+        "25",
+        "21"
+      ],
+      "nota": "Tuerca 25 con su tornillo 21 (el manual aprieta el tornillo contrastando la tuerca)"
+    }
+  ],
+  "contratuerca-regulacion-cables-bowden": [],
+  "tornillo-de-fijacion-del-paracalor-del-piloto": [
+    {
+      "fig": "sf:SCR00115",
+      "pos": [
+        "8"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-proteccion-externa-valvula-de-escape": [
+    {
+      "fig": "sf:SCR00115",
+      "pos": [
+        "27"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-proteccion-interna-polea-valvula-de-escape": [],
+  "tornillo-de-fijacion-del-escape-vertical-al-bastidor": [
+    {
+      "fig": "sf:SCR00115",
+      "pos": [
+        "17"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-pasacables-de-los-cables-bowden": [
+    {
+      "fig": "sf:SCR00115",
+      "pos": [
+        "47"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-asiento-del-piloto-al-bastidor": [
+    {
+      "fig": "sf:VST00828",
+      "pos": [
+        "5"
+      ]
+    }
+  ],
+  "tuerca-de-fijacion-del-grupo-bastidor-motor": [
+    {
+      "fig": "sf:TEL00536",
+      "pos": [
+        "2"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-bastidor-trasero-al-bastidor": [
+    {
+      "fig": "sf:TEL00538",
+      "pos": [
+        "2"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-conmutador-de-encendido": [
+    {
+      "fig": "sf:SOS00428",
+      "pos": [
+        "38"
+      ]
+    }
+  ],
+  "tornillos-cabeza-ancha-fijacion-portamatricula-superior-a-cuerpo-del-asiento-en-bastidor-trasero": [],
+  "tornillos-fijacion-portamatricula-superior-a-cuerpo-del-asiento-en-bastidor-trasero": [],
+  "tornillos-de-fijacion-masas-antivibracion-en-bloque-llave": [
+    {
+      "fig": "sf:SOS00428",
+      "pos": [
+        "47"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-las-cornetas-de-aspiracion-al-fondo-del-airbox": [
+    {
+      "fig": "sf:IMP00549",
+      "pos": [
+        "8"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-pasacables-gas-a-airbox": [
+    {
+      "fig": "sf:RAF00339",
+      "pos": [
+        "9"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-los-conductos-de-aire-al-airbox-derecho-izquierdo": [
+    {
+      "fig": "sf:RAF00339",
+      "pos": [
+        "6"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-conducto-de-aire-a-la-tapa-del-conducto-derecho-izquierdo": [
+    {
+      "fig": "sf:RAF00339",
+      "pos": [
+        "1"
+      ]
+    }
+  ],
+  "abrazadera-de-fijacion-del-tubo-blow-by-al-carter": [
+    {
+      "fig": "sf:RAF00339",
+      "pos": [
+        "20"
+      ]
+    }
+  ],
+  "toma-de-presion": [
+    {
+      "fig": "sf:RAF00339",
+      "pos": [
+        "13"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-resonador-al-bastidor": [
+    {
+      "fig": "sf:RAF00339",
+      "pos": [
+        "19"
+      ],
+      "nota": "Resonador = vaso de expansión 15 de la caja del filtro"
+    }
+  ],
+  "abrazadera-de-fijacion-del-cuerpo-de-mariposa-al-colector-de-admision": [
+    {
+      "fig": "sf:IMP00549",
+      "pos": [
+        "21"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-las-cornetas-al-cuerpo-de-mariposa": [
+    {
+      "fig": "sf:IMP00549",
+      "pos": [
+        "12"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-los-tubos-de-la-gasolina-con-inyector-al-airbox": [
+    {
+      "fig": "sf:IMP00549",
+      "pos": [
+        "19"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-pasacables-tubos-gasolina-al-fondo-del-airbox": [
+    {
+      "fig": "sf:IMP00549",
+      "pos": [
+        "24"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-brida-canister-a-culata-horizontal": [],
+  "tuerca-de-fijacion-de-la-placa-canister-al-soporte": [],
+  "tornillo-de-fijacion-de-los-laterales-al-cuerpo-del-asiento-en-clip": [
+    {
+      "fig": "sf:VST00828",
+      "pos": [
+        "26"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-los-laterales-al-deposito": [
+    {
+      "fig": "sf:VST00828",
+      "pos": [
+        "6"
+      ]
+    }
+  ],
+  "tuerca-de-apriete-del-asiento-al-lateral": [
+    {
+      "fig": "sf:VST00828",
+      "pos": [
+        "14"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-de-la-proteccion-del-radiador-superior": [
+    {
+      "fig": "sf:RAF00340",
+      "pos": [
+        "7"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-cuba-tapa-bateria-a-cuerpo-del-asiento-en-clip": [
+    {
+      "fig": "sf:VST00828",
+      "pos": [
+        "13"
+      ],
+      "nota": "La pos. 13 (×6) también marca los tornillos de los cuerpos inferiores 7 y 17; aquí es el de la cuba 9"
+    }
+  ],
+  "tornillo-de-fijacion-intermedia-del-cuerpo-del-asiento-bastidor": [],
+  "tornillo-de-fijacion-del-pestillo-de-la-cerradura-al-bastidor": [],
+  "tornillos-de-fijacion-del-tapon-del-deposito": [
+    {
+      "fig": "sf:VST00827",
+      "pos": [
+        "7"
+      ]
+    }
+  ],
+  "tornillos-de-fijacion-del-puntal-derecho-e-izquierdo-a-la-placa": [
+    {
+      "fig": "sf:VST00829",
+      "pos": [
+        "12"
+      ]
+    }
+  ],
+  "tornillo-de-fijacion-del-puntal-derecho-e-izquierdo-al-radiador-inferior": [
+    {
+      "fig": "sf:VST00829",
+      "pos": [
+        "22"
+      ]
+    }
+  ],
+  "tornillo-fijacion-placa-soporte-puntal-al-motor-derecho-e-izquierdo": [],
+  "tornillo-de-fijacion-de-la-cupula-delantera-al-faro-en-clip": [
+    {
+      "fig": "sf:VST00829",
+      "pos": [
+        "19",
+        "23"
+      ],
+      "nota": "Tornillos de la cúpula (7) al faro: 19 en las fijaciones rápidas 18 y 23 con arandela 11"
+    }
+  ],
+  "tornillo-fijacion-tapa-actuador-valvula-de-escape-en-clip": [
+    {
+      "fig": "sf:VST00828",
+      "pos": [
+        "13"
+      ],
+      "nota": "Tapa del actuador = cuerpo de asiento delantero inferior 7; la pos. 13 también marca otros tornillos iguales"
+    }
+  ],
+  "tornillo-fijacion-tapa-actuador-valvula-de-escape-en-bastidor-trasero": [
+    {
+      "fig": "sf:VST00828",
+      "pos": [
+        "13"
+      ],
+      "nota": "Tapa del actuador = cuerpo de asiento delantero inferior 7; la pos. 13 también marca otros tornillos iguales"
+    }
+  ],
+  "tornillo-de-masa-de-la-centralita-ecu": [],
+  "_sin_figura": {
+    "tornillo-de-fijacion-del-pasacables-para-el-sensor-del-caballete-lateral": "El pasacables del sensor del caballete no aparece en el despiece del caballete",
+    "tuerca-de-fijacion-de-la-tapa-del-pinon": "La tapa del piñón no aparece en ninguna lámina del catálogo de la S",
+    "tornillo-de-fijacion-del-espaciador-al-indicador-de-direccion-trasero-derecho-e-izquierdo": "El tornillo del espaciador del intermitente trasero no tiene posición propia en el despiece",
+    "tornillo-de-fijacion-del-pasatubo-del-freno-embrague-a-la-cabeza-de-direccion": "No se identifica el pasatubo de freno/embrague de la cabeza de dirección en ninguna lámina",
+    "tornillo-de-fijacion-conmutador-derecho-izquierdo": "Los tornillos de los conmutadores no tienen posición propia (vienen con el conmutador)",
+    "tornillo-de-fijacion-brida-soporte-cable-a-culata-vertical": "La brida soporte de cables en la culata vertical no aparece en el despiece",
+    "tornillo-fijacion-sensor-temperatura-a-soporte-faro-delantero": "El sensor de temperatura del aire (FAN00186 pos. 29) aparece sin tornillo propio",
+    "tornillo-de-fijacion-del-cable-de-masa-al-motor": "El tornillo del cable de masa al motor no tiene posición propia en el despiece",
+    "tornillo-del-perno-central-del-basculante": "No queda claro qué pieza del conjunto eje del basculante (SOS00434 pos. 1/3) es este tornillo; la pos. 3 ya es la tuerca del fulcro",
+    "apriete-tornillo-sujetacable-del-mando-del-acelerador": "El sujetacable del acelerador va en el cuerpo de mariposa y no tiene posición en el catálogo",
+    "tornillo-de-bloqueo-de-ajuste-del-cable-de-mando-del-acelerador": "La contratuerca de regulación del cable del acelerador forma parte del conjunto de cables (SOS00428 pos. 26)",
+    "tornillo-de-fijacion-del-mando-del-acelerador": "Los tornillos del mando del acelerador vienen con el mando (SOS00428 pos. 20), sin posición propia",
+    "tornillo-de-fijacion-de-la-biela-del-cambio-al-trinquete": "Es el tornillo 771.5.667.8B de la palanca 20 sobre el eje del cambio, pero en TEL00536 su llamada aparece por error como 27 (que es una junta tórica)",
+    "tornillo-especial-interruptor-freno-trasero": "No se identifica con seguridad el tornillo especial del interruptor del freno trasero (BRB00271 pos. 5)",
+    "contratuerca-regulacion-cables-bowden": "La contratuerca de regulación forma parte del conjunto de cables (SCR00115 pos. 20)",
+    "tornillo-de-fijacion-proteccion-interna-polea-valvula-de-escape": "No se distingue con seguridad entre las protecciones 26 y 38 de SCR00115 cuál es la interna de la polea",
+    "tornillos-cabeza-ancha-fijacion-portamatricula-superior-a-cuerpo-del-asiento-en-bastidor-trasero": "No se identifican con seguridad estos tornillos en TEL00545 (los de arriba, pos. 30, parecen M5)",
+    "tornillos-fijacion-portamatricula-superior-a-cuerpo-del-asiento-en-bastidor-trasero": "No se identifican con seguridad estos tornillos en TEL00545 (los de arriba, pos. 30, parecen M5)",
+    "tornillo-de-fijacion-brida-canister-a-culata-horizontal": "El canister (solo California) no aparece en el catálogo de la Streetfighter S",
+    "tuerca-de-fijacion-de-la-placa-canister-al-soporte": "El canister (solo California) no aparece en el catálogo de la Streetfighter S",
+    "tornillo-de-fijacion-intermedia-del-cuerpo-del-asiento-bastidor": "No queda claro cuál de los tornillos del cuerpo del asiento (21, 27) es el intermedio",
+    "tornillo-de-fijacion-del-pestillo-de-la-cerradura-al-bastidor": "El cerrojo de la cerradura (VST00828 pos. 20) aparece sin sus tornillos",
+    "tornillo-fijacion-placa-soporte-puntal-al-motor-derecho-e-izquierdo": "No queda claro qué tornillos fijan las placas soporte 13/15 al motor (14/17 o 25)",
+    "tornillo-de-masa-de-la-centralita-ecu": "El tornillo de masa de la ECU no aparece en el despiece"
+  }
+}

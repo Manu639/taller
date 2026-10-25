@@ -2,6 +2,12 @@
 	root * /srv
 	encode zstd gzip
 	header /sw.js Cache-Control "no-cache"
+	# Las figuras llevan un hash en el nombre: no cambian nunca. La lista sí.
+	@figuras {
+		path /manual/*
+		not path /manual/medios.json
+	}
+	header @figuras Cache-Control "public, max-age=31536000, immutable"
 	header /manifest.webmanifest Content-Type "application/manifest+json"
 	file_server
 }

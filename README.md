@@ -1,9 +1,14 @@
 # Taller
 
-Pares de apriete para mis motos. PWA estática (HTML, JS y CSS, sin build ni backend) pensada para el iPad.
-Publicada en https://taller.manucastillo.dev.
+Pares de apriete y guías de mantenimiento para mis motos. PWA estática (HTML, JS y CSS, sin build ni backend)
+pensada para el iPad. Publicada en https://taller.manucastillo.dev.
 
 - `app/`: la app.
+  - `seed.js`: pares de apriete iniciales, sacados de los manuales.
+  - `guias/`: guías paso a paso de cada moto, redactadas a partir de los manuales.
+  - `figuras.js` y `manual/`: despieces y figuras de los manuales (qué tornillo es cada par y fotos de las guías).
+    Los genera `tools/build_media.py`; ver `tools/README.md`.
+- `tools/`: scripts para sacar las figuras de los manuales de taller.
 - `Caddyfile` y `Dockerfile`: la imagen `ghcr.io/manu639/taller`, que sirve `app/` con caddy en el puerto 80.
 - `.github/workflows/imagen.yml`: construye la imagen en cada PR y la publica al crear una release.
 
